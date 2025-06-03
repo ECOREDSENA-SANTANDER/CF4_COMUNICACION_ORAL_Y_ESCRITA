@@ -1,17 +1,23 @@
 <template lang="pug">
-.curso-main-container.pb-3
-  BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span 2
-      h1 Tema 2
+  .curso-main-container.pb-3
+    BannerInterno
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+      .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span 2
+        h1 Comunicación digital actual
+      #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 2.1 2.1 Utilización de aplicaciones digitales
+      #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 2.2 Netiqueta
+      
+        
 
-</template>
+  </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema1',
   data: () => ({
     // variables de vue
   }),
