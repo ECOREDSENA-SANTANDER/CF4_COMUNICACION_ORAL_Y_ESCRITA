@@ -45,7 +45,42 @@ figcaption
     font-weight: normal !important
 
     background-color: #D2C3DD !important
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number,
+.linea-tiempo-d__item.linea-tiempo-d__item--selected .tarjeta--gris
+    background-color: $color-adicional-1 !important
+.linea-tiempo-d__item__number, .linea-tiempo-d .tarjeta
+  background-color: $color-adicional-2 !important
+.acordion .acordion__activo
+  background-color: $color-adicional-1 !important
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones
+.tabs-a__tab 
+    background-color: #FFE0A6;
+.bloque-texto-f.color-acento-contenido:before 
+    background-color: #EFFAF4
+.bloque-texto-f__autor
+    text-align: left !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones !important
+    border: none !important
 
+.slyder-a__bullets__item
+    background-color: #FFE0A6 !important
+    border: none !important
+.slyder-a__bullets__item--active
+    background-color: $color-acento-contenido !important
+    border: none !important
+.bloque-texto-b.color-secundario:before 
+    background-color: #EFFAF4;
+.bloque-texto-b:before
+    left: 0 !important
+.bloque-texto-c:after 
+    background-image: url("../assets/curso/temas/bg/1.svg") !important
+.bloque-texto-f__autor.text-left
+  text-align: left 
+.bloque-texto-f__autor.text-right
+    text-align: right    !important
+    
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -60,27 +95,101 @@ figcaption
   &-2
     background-image: url("../assets/curso/temas/bg/1.svg") !important
     background-position: top
+  &-3
+    background-image: url("../assets/curso/temas/bg/3.svg") !important
+    background-position: top
       
 .bg-color
+  &-white
+    background-color: #fff !important
   &-1
+    color: $color-acento-contenido !important
+  &-2
+    background-color: #FCC5D5 
+  &-3
+    background-color: #E5F4FF
+  &-4
     color: $color-primario !important
-
+  &-5
+    background-color: #DAF2E4
+  &-6
+    background-color: #EFFAF4
+  &-7
+    background-color: $color-acento-contenido !important
 .br
   &-1
     border-radius: 10px !important
+  &-2
+    border-right: 1px #707070 solid
 
-.ml-cus
+.mg
   &-1
     margin-left: 30px !important
+
+  &-2
+    margin-top: 0.9rem !important;
+
+  &-3
+    margin-top: 3rem !important;
+  &-4
+    margin-top: 20% 
+.pc
+  &-1
+    padding: 0rem 4rem !important
+  &-2
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+  &-3
+    padding: 3rem 1rem !important;
       
 .hcard
   &-1
     height: 750px !important
 .wc
+  &-60
+    width: 60%
   &-75
     width: 75%
       
+.titulo-icono
+  background-color: #FCC5D5
+  border-radius: 30px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+    margin-left: 50px;
+  &-img
+    padding: 0px
+    position: absolute
 
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+
+.titulo-only-text
+  background-color: #FCC5D5
+  border-radius: 30px
+  width: fit-content
+  &-info
+    margin-right: 20px
+    margin-left: 20px;
+.tit
+  &-1
+    font-size: 40px
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    line-height: 1.2;
+    margin: 0 0 0.75em;
+    color: #12263F;
+  &-2
+    left: 50%
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -101,10 +210,34 @@ figcaption
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
-
-  
-
+  .pc
+    &-1
+      padding: 0.5rem 1rem !important
+    &-2
+      padding-right: 1rem !important;
+      padding-left: 1rem !important;
+  .br
+    &-2
+      border-right: 0
+  .wc
+    &-75
+      width: auto
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .pc
+    &-1
+      padding: 0.5rem 1rem !important
+    &-2
+      padding-right: 1rem !important;
+      padding-left: 1rem !important;
+  .mg 
+    &-3, &-4
+      margin-top: .5rem !important;
+  .br
+    &-2
+      border-right: 0
+  .wc
+    &-75
+      width: auto
