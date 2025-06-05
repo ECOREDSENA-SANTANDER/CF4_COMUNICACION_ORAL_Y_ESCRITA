@@ -80,7 +80,9 @@ figcaption
   text-align: left 
 .bloque-texto-f__autor.text-right
     text-align: right    !important
-    
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    border: 2px solid #FFE0A6;
+    background-color: #FFE0A6;    
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -222,6 +224,9 @@ figcaption
   .wc
     &-75
       width: auto
+
+  .bloque-texto-g 
+    padding-top: 50px !important
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
@@ -241,3 +246,13 @@ figcaption
   .wc
     &-75
       width: auto
+
+  .bloque-texto-g 
+    padding-top: 20px !important
+  .titulo-icono
+    left: 0px;
+    &-text
+      margin-right: 10px
+      margin-left: 10px;
+    img
+      display: none

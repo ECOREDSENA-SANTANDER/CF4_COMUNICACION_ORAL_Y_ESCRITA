@@ -251,14 +251,14 @@
             SlyderA(tipo="b")
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
-                  h4.mb-3 1.	Elección del tema concreto
+                  h4.mb-3 1. Elección del tema concreto
                   p.mb-0 Si es un tema general, se debe perfilar el punto de vista desde el cual se quiere tratar, es decir, definir el tema preciso de interés para que en la búsqueda de información no se pierda el foco del escrito. Aunque no se descarta, como refiere Sánchez “en ocasiones, es necesario acudir a fuentes generales de aproximación al tema como primer paso para nuestro trabajo”
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
       
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
-                  h4.mb-3 2.	Recopilación de material en relación al tema.
+                  h4.mb-3 2. Recopilación de material en relación al tema.
                   p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversa (teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias, tesis, etc. Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
