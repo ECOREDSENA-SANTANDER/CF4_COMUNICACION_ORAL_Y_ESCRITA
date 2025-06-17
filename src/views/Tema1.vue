@@ -27,7 +27,7 @@
 
             .row(numero="3" titulo="Actuar")
               .col-lg-12
-                p es la manifestación externa del proceso interno de pensar y sentir. Se concreta en acciones como hablar, leer en voz alta y escribir, entendidas no solo como habilidades técnicas, sino como prácticas sociales. Según Paulo Freire (1970), la palabra es acción y reflexión: es decir, al hablar y escribir, el sujeto transforma su realidad y se posiciona frente al mundo. Leer en voz alta permite la apropiación del texto desde lo oral, mientras que escribir implica un ejercicio consciente de autoría, coherencia y responsabilidad discursiva.
+                p Es la manifestación externa del proceso interno de pensar y sentir. Se concreta en acciones como hablar, leer en voz alta y escribir, entendidas no solo como habilidades técnicas, sino como prácticas sociales. Según Paulo Freire (1970), la palabra es acción y reflexión: es decir, al hablar y escribir, el sujeto transforma su realidad y se posiciona frente al mundo. Leer en voz alta permite la apropiación del texto desde lo oral, mientras que escribir implica un ejercicio consciente de autoría, coherencia y responsabilidad discursiva.
                 p Esta articulación entre pensar, sentir y actuar no solo fortalece la competencia comunicativa, sino que también promueve el desarrollo integral del profesional en formación. Al integrar la razón, la emoción y la acción, se forma un sujeto capaz de producir textos que no solo informen, sino que comuniquen con intención, profundidad y sentido.
                 p.mb-0 Dicho esto, la experiencia de escribir es el resultado de lo que se piensa y se siente. Para escribir con sentido, es necesario leer, comprender, argumentar, complementar y articular ideas. La escritura implica un proceso de construcción y reconstrucción del conocimiento, apoyado en herramientas como mapas conceptuales, esquemas y gráficos. En este sentido, todo lo trabajado previamente se convierte en el insumo fundamental para lograr una producción escrita coherente, estructurada y significativa.
         .col-sm-12.col-lg-6.d-none.d-lg-block
@@ -129,7 +129,7 @@
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6
           p.mb-4 Según la Real Academia de la Lengua Española RAE (2019), un párrafo es el “fragmento de un texto en prosa constituido por un conjunto de líneas seguidas y caracterizado por el punto y aparte al final de la última”. A esto se suma que el párrafo empieza con letra mayúscula y las líneas seguidas, se configuran como frases.
-          p.mb-0 En la construcción de un párrafo, de deben tener en cuenta elementos básicos como:
+          p.mb-0 En la construcción de un párrafo, se deben tener en cuenta elementos básicos como:
 
         .col-sm-12.col-lg-6.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/7.png', alt='')
@@ -192,7 +192,7 @@
             .row.jus(titulo="Párrafo de enumeración")
               .col-lg-12.pc-1
                 p.mb-0 Constituido por una lista de propiedades que describen un mismo objeto, hecho o idea y por una frase organizadora (antes o después del párrafo) que indica al lector la estructura del párrafo.
-            .row.jus(titulo="Párrafo de comparación/contraste")
+            .row.jus(titulo="Párrafo de comparación / contraste")
               .col-lg-12
                 p.mb-0 Indica las semejanzas y diferencias entre dos más objetos, ideas o personas, comparándolos, según cierto número de categorías.
 
@@ -200,11 +200,11 @@
               .col-lg-12
                 p.mb-0 Se da una idea principal, enunciada de forma explícita, que posteriormente se reafirma por medio de ejemplos, argumentaciones. De manera que se explica, aclara, detalla o ilustra la afirmación principal.
 
-            .row.jus(titulo="Párrafo de enunciado/solución de un problema")
+            .row.jus(titulo="Párrafo de enunciado / solución de un problema")
               .col-lg-12
                 p.mb-0 Plantea un problema para posteriormente solucionarlo.
 
-            .row.jus(titulo="Párrafo de causa/efecto")
+            .row.jus(titulo="Párrafo de causa / efecto")
               .col-lg-12
                 p.mb-0 Presenta un acontecimiento o una situación seguido por las razones que los han causado.
 
@@ -259,7 +259,7 @@
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
                   h4.mb-3 2. Recopilación de material en relación al tema.
-                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversa (teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias, tesis, etc. Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
+                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversa teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias y tesis; Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
 
@@ -289,7 +289,7 @@
         .col-sm-12.col-lg-6.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/12.png', alt='')
         .col-sm-12.col-lg-6
-            p APA son siglas que hacen referencia a la abreviación de la Asociación Americana de Psicología (American Psichological Associatión en inglés). Las normas APA, están consignadas en un manual. Se construyen algunas de sus funciones.
+            p APA son siglas que hacen referencia a la abreviación de la Asociación Americana de Psicología (#[em American Psichological Associatión] en inglés). Las normas APA, están consignadas en un manual. Se construyen algunas de sus funciones.
             ul.lista-ul--color.mb-0
               li.d-flex
                 i.fas.fa-leaf.icon-list
@@ -330,7 +330,7 @@
                   p.mb-0 Página de portada
                 li.d-flex
                   i.fas.fa-leaf.icon-list
-                  p.mb-0  Resumen (Abstract)
+                  p.mb-0  Resumen (#[em Abstract])
                 li.d-flex
                   i.fas.fa-leaf.icon-list
                   p.mb-0  Texto o contenido
@@ -511,7 +511,7 @@
               i.fas.fa-quote-left
               i.fas.fa-quote-right
             h4.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para el…
-          p.mb-5 #[b Lo invitamos a explorar el siguiente video:] A la Página en Blanco se la Derrota Mirándola a los Ojos Enlace
+          p.mb-5 #[b Lo invitamos a explorar el siguiente video:] A la Página en Blanco se la Derrota Mirándola a los Ojos. 
       .tarjeta.bg-color-7.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -537,7 +537,7 @@
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
               i.fas.fa-quote-right
-            p.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para el
+            p.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para el...
             .bloque-texto-f__autor.text-right.mb-3
               p.mb-0.text-right Navas Talero (2016).
           p En casos en que la cita tiene más de 40 palabras, no se utiliza comillas, se separa del párrafo con el que se relaciona, se ajusta a una sangría de tres centímetros, recomendando aquí que se disminuya el tamaño de la letra (un punto), lo cual no obliga, esto hace que se diferencie del resto del texto. Un ejemplo sería.
@@ -546,9 +546,9 @@
             h3.mb-0.titulo-only-text-info.px-0.py-2 Cita indirecta
           p.mb-4 Como lo expresa la Universidad Nacional (2020) “hace mención de las ideas de un autor con palabras de quien escribe. Se escribe dentro del texto, sin comillas, y el número de la referencia se escribe después del apellido del autor y antes de citar su idea.
           p.fw-bold Ejemplo
-          p Para Kostoff1 las citas representan los cimientos intelectuales anteriores sobre lo que sustenta un trabajo de investigación y, por tanto, el trabajo citado supone un escalón en el desarrollo del conocimiento científico.
+          p “Para Kostoff1 las citas representan los cimientos intelectuales anteriores sobre lo que sustenta un trabajo de investigación y, por tanto, el trabajo citado supone un escalón en el desarrollo del conocimiento científico.
 
-          p KOSTOFF, RN. The use and misuse of citation analysis in research evaluation. En: Scientometrics. Budapest, 1998. Vol. 43, no.1. p.28”
+          p #[em KOSTOFF, RN. The use and misuse of citation analysis in research evaluation. En: Scientometrics. Budapest, 1998. Vol. 43, no.1. p.28”]
           p Es decir que todo el material que no sea de su autoría debe estar citado de forma correcta porque de lo contrario no se puede usar ya que se incurre en problemas legales de derechos de autor.
 </template>
 

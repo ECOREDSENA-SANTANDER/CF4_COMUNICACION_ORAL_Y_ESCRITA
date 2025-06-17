@@ -141,12 +141,12 @@ export default {
     {
       termino: 'Comunicación',
       significado:
-        'proceso mediante el cual un emisor transmite un mensaje a un receptor a través de un canal y utilizando un código compartido, dentro de un contexto determinado. puede ser oral, escrita, gestual, visual, entre otras.',
+        'proceso mediante el cual un emisor transmite un mensaje a un receptor a través de un canal y utilizando un código compartido, dentro de un contexto determinado. Puede ser oral, escrita, gestual, visual, entre otras.',
     },
     {
       termino: 'Código',
       significado:
-        'conjunto de signos y reglas que comparten el emisor y el receptor para que la comunicación sea posible. en el lenguaje humano, el código suele ser la lengua.',
+        'conjunto de signos y reglas que comparten el emisor y el receptor para que la comunicación sea posible. En el lenguaje humano, el código suele ser la lengua.',
     },
     {
       termino: 'Contexto',
@@ -156,7 +156,7 @@ export default {
     {
       termino: 'Digital',
       significado:
-        'relativo a los sistemas que procesan, almacenan o transmiten información mediante señales discretas, generalmente binarios (bits). también puede referirse a dispositivos tecnológicos que funcionan mediante esta lógica.',
+        'relativo a los sistemas que procesan, almacenan o transmiten información mediante señales discretas, generalmente binarios (bits). También puede referirse a dispositivos tecnológicos que funcionan mediante esta lógica.',
     },
     {
       termino: 'Emisor',
@@ -166,7 +166,7 @@ export default {
     {
       termino: 'Léxico',
       significado:
-        'conjunto de palabras de una lengua o el vocabulario de un hablante, grupo o área específica. también se refiere al aspecto semántico del lenguaje, frente a su gramática.',
+        'conjunto de palabras de una lengua o el vocabulario de un hablante, grupo o área específica. También se refiere al aspecto semántico del lenguaje, frente a su gramática.',
     },
     {
       termino: 'Mensaje',
@@ -288,7 +288,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

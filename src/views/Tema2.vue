@@ -41,7 +41,7 @@
             LineaTiempoC.color-primario(data-aos='fade-right')
               .row.justify-content-center.align-content-center.mb-0(titulo="MSM")
                 .col-sm-12.col-lg-8.pc-2
-                  h4 El MSM o mensaje de texto: 
+                  h4 El MSM o mensaje de texto
                   p.mb-0 se debe limitar a ciento sesenta (160) caracteres que reflejen información básica de aquello que se quiere decir, por lo cual debe ser claro y conciso.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t2/5.png', alt='') 
@@ -73,7 +73,7 @@
               .row.justify-content-center.align-items-end.mb-0(titulo="Pág. Web")
                 .col-sm-12.col-lg-5
                   h4 Página web
-                  p.mb-2 Una página web es un documento digital elaborado en formato HTML (lenguaje hipertextual de etiquetado de documentos) en el que se utilizan: imágenes, texto escrito, vídeos, animaciones, links, etc.
+                  p.mb-2 Una página web es un documento digital elaborado en formato HTML (lenguaje hipertextual de etiquetado de documentos) en el que se utilizan: imágenes, texto escrito, videos, animaciones, links, etc.
                   p.mb-4 #[b Redacción:] Sánchez (2007) refiere elementos importantes en la redacción los siguientes:
                   ul.lista-ul--color.mb-0
                       li.d-flex.mb-0
@@ -183,10 +183,13 @@
                             i.fas.fa-leaf.icon-list
                             .flex-column
                               p.mb-0 #[b Asunto:] un saludo cordial.
-                              p.mb-0 Contenido concreto y claro, si se requiere mayor organización del texto, se sugiere discriminar la información en puntos, de manera que cada uno mencione los temas relacionados al asunto, sin salirse del tema objeto del mensaje.
                           li.d-flex.mb-0
                             i.fas.fa-leaf.icon-list
-                            p.mb-0 Despedida con un atentamente o cordialmente.
+                            .flex-column
+                                p.mb-0 #[b Contenido:] concreto y claro, si se requiere mayor organización del texto, se sugiere discriminar la información en puntos, de manera que cada uno mencione los temas relacionados al asunto, sin salirse del tema objeto del mensaje.
+                          li.d-flex.mb-0
+                            i.fas.fa-leaf.icon-list
+                            p.mb-0 #[b Despedida:] con un atentamente o cordialmente.
                           li.d-flex.mb-0
                             i.fas.fa-leaf.icon-list
                             p.mb-0 #[b Remitente:] nombre, cargo, empresa y número de contacto de ser necesario.
