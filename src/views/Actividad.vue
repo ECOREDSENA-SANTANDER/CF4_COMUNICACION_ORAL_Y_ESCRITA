@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre la importancia de escribir en la comunicación oral y escrita.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

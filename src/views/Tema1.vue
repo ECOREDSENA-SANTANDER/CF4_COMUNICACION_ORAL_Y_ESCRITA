@@ -17,15 +17,15 @@
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-primario
-            .row(numero="1" titulo="Pensar")
+            .row(numero="A" titulo="Pensar")
               .col-lg-12
                 p.mb-0 Se refiere al conjunto de operaciones mentales que permiten comprender, organizar y transformar la información. En este nivel, la lectura, la observación, la interpretación y la sistematización de datos son actividades clave. Desde la teoría sociocultural de Vygotsky (1978), el pensamiento se desarrolla a través de la interacción con los otros y con los textos, lo cual permite la construcción de significados compartidos. La lectura crítica y la observación consciente del entorno favorecen la capacidad de análisis y la organización lógica del discurso, condiciones indispensables para una escritura coherente.
 
-            .row(numero="2" titulo="Sentir")
+            .row(numero="B" titulo="Sentir")
               .col-lg-12
                 p.mb-0 Implica la dimensión afectiva del sujeto, y se expresa en el interés, la motivación y la actitud frente al acto de escribir. Carl Rogers (1969) afirma que el aprendizaje significativo ocurre cuando existe una implicación emocional del estudiante con el contenido, lo que potencia la autenticidad y el compromiso. En este marco, sentir también se refleja en la seguridad que otorga la argumentación fundamentada, producto de un proceso personal de construcción del conocimiento. Escribir con gusto, desde la convicción y la reflexión, convierte el texto en una forma de expresión auténtica y ética.
 
-            .row(numero="3" titulo="Actuar")
+            .row(numero="C" titulo="Actuar")
               .col-lg-12
                 p Es la manifestación externa del proceso interno de pensar y sentir. Se concreta en acciones como hablar, leer en voz alta y escribir, entendidas no solo como habilidades técnicas, sino como prácticas sociales. Según Paulo Freire (1970), la palabra es acción y reflexión: es decir, al hablar y escribir, el sujeto transforma su realidad y se posiciona frente al mundo. Leer en voz alta permite la apropiación del texto desde lo oral, mientras que escribir implica un ejercicio consciente de autoría, coherencia y responsabilidad discursiva.
                 p Esta articulación entre pensar, sentir y actuar no solo fortalece la competencia comunicativa, sino que también promueve el desarrollo integral del profesional en formación. Al integrar la razón, la emoción y la acción, se forma un sujeto capaz de producir textos que no solo informen, sino que comuniquen con intención, profundidad y sentido.
@@ -92,8 +92,8 @@
         .tarjeta.bg-color-3.p-5.br-1(titulo="3.	Claridad y articulación del mensaje citado")
           h4 3.	Claridad y articulación del mensaje citado
           p Es crucial comprender claramente el mensaje que se cita y asegurarse de que esté adecuadamente articulado con el proyecto de escritura, de modo que tanto el aporte como la cita estén bien integrados.
-          p Lo anterior, aplica para textos científicos, académicos o libros, no aplica para páginas de internet informales, toda vez que estas pueden tomar diferentes fuentes, por tanto, la veracidad no es contundente.
-          p.mb-0 Es subjetivo reducir los textos a tipos para su clasificación, sin embargo, se hace una clasificación que puede tener en cuenta en su avance como escritor:
+      p Lo anterior, aplica para textos científicos, académicos o libros, no aplica para páginas de internet informales, toda vez que estas pueden tomar diferentes fuentes, por tanto, la veracidad no es contundente.
+      p.mb-5 Es subjetivo reducir los textos a tipos para su clasificación, sin embargo, se hace una clasificación que puede tener en cuenta en su avance como escritor:
 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')
@@ -259,7 +259,7 @@
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
                   h4.mb-3 2. Recopilación de material en relación al tema.
-                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversa teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias y tesis; Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
+                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversa teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias, tesis, etc. Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
 
@@ -486,7 +486,7 @@
           img(src='@/assets/curso/temas/t1/8.png', alt='')
         .col-sm-12.col-lg-9
           .titulo-only-text
-            h3.mb-0.titulo-only-text-info.px-0.py-2 Citar significa
+            h3.mb-5.titulo-only-text-info.px-0.py-2 Citar significa
           .row.mb-4
             .col-sm-12.col-lg-6.mb-cus
               .bloque-texto-b.color-secundario.p-4

@@ -42,7 +42,7 @@
               .row.justify-content-center.align-content-center.mb-0(titulo="MSM")
                 .col-sm-12.col-lg-8.pc-2
                   h4 El MSM o mensaje de texto
-                  p.mb-0 se debe limitar a ciento sesenta (160) caracteres que reflejen información básica de aquello que se quiere decir, por lo cual debe ser claro y conciso.
+                  p.mb-0 Se debe limitar a ciento sesenta (160) caracteres que reflejen información básica de aquello que se quiere decir, por lo cual debe ser claro y conciso.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t2/5.png', alt='') 
 

@@ -171,7 +171,7 @@ export default {
     {
       termino: 'Mensaje',
       significado:
-        'información o contenido que el emisor quiere transmitir al receptor. puede adoptar diversas formas: verbal, escrita, visual, gestual, entre otras.',
+        'información o contenido que el emisor quiere transmitir al receptor. Puede adoptar diversas formas: verbal, escrita, visual, gestual, entre otras.',
     },
     {
       termino: 'Norma',
@@ -181,12 +181,12 @@ export default {
     {
       termino: 'Oralidad',
       significado:
-        'característica de los mensajes producidos mediante la voz humana. implica el uso de la lengua hablada en contextos formales o informales.',
+        'característica de los mensajes producidos mediante la voz humana. Implica el uso de la lengua hablada en contextos formales o informales.',
     },
     {
       termino: 'Párrafo',
       significado:
-        'unidad de sentido dentro de un texto escrito, compuesta por una o más oraciones que desarrollan una misma idea. se separa de otros párrafos por un punto y aparte.',
+        'unidad de sentido dentro de un texto escrito, compuesta por una o más oraciones que desarrollan una misma idea. Se separa de otros párrafos por un punto y aparte.',
     },
     {
       termino: 'Receptor',
@@ -196,7 +196,7 @@ export default {
     {
       termino: 'Texto',
       significado:
-        'conjunto coherente de enunciados orales o escritos que comunican un mensaje. puede clasificarse por su forma, función o género discursivo.',
+        'conjunto coherente de enunciados orales o escritos que comunican un mensaje. Puede clasificarse por su forma, función o género discursivo.',
     },
     {
       termino: 'Texto escrito',
@@ -206,7 +206,7 @@ export default {
     {
       termino: 'Texto oral',
       significado:
-        'forma de comunicación que se expresa mediante el habla. es inmediata y muchas veces espontánea, aunque puede seguir estructuras formales.',
+        'forma de comunicación que se expresa mediante el habla. Es inmediata y muchas veces espontánea, aunque puede seguir estructuras formales.',
     },
   ],
   referencias: [
