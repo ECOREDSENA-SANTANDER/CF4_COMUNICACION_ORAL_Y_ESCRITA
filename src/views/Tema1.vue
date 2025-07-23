@@ -525,8 +525,8 @@
 
               .col-sm-auto
                 a.boton.color-acento-botones.text-sistema(href="https://www.youtube.com/watch?v=C3jNLLuFJVE" target="_blank")
-                  span Ver video
-                  i.fas.fa-link
+                  span Ir al sitio
+                  i.fas.fa-circle-play
 
 
       .row.justify-content-center.mb-0.align-items-start(data-aos='fade-right')
