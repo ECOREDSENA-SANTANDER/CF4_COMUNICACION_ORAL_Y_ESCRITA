@@ -520,7 +520,8 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Explora el siguiente video: 
-                p.mb-0 Oratoria, Curso para Hablar en Público: 7 Ejercicios para Mejorar la Voz | Técnicas de Volumen #147. 
+                p.mb-0 Lo invitamos a explorar el siguiente video: A la Página en Blanco se la Derrota Mirándola a los Ojos.
+
               .col-sm-auto
                 a.boton.color-acento-botones.text-sistema(href="https://www.youtube.com/watch?v=C3jNLLuFJVE" target="_blank")
                   span Ver video
