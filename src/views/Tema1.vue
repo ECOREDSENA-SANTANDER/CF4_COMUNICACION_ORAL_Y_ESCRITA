@@ -233,16 +233,15 @@
 
       p.mb-4(data-aos='fade-right') También Sánchez (2007) aporta la siguiente gráfica para describir la estructura de las ideas de los textos argumentativos.
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
-        .col-sm-12.col-lg-9
+        .col-sm-12.col-lg-10
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 1.]  Estructura de un texto argumentativo
           figure.mb-cus
             img(src='@/assets/curso/temas/t1/10.svg', alt='Se organiza en tres partes principales: introducción, cuerpo argumentativo y conclusión. En la introducción se encuentra el planteamiento de la tesis y la hipótesis. El cuerpo argumentativo abarca la exposición de ideas y formulación de hipótesis, la presentación de argumentos demostrativos válidos y la refutación de objeciones. Finalmente, la conclusión incluye la confirmación de la tesis, la síntesis de las ideas expuestas y demostradas, aportaciones y sugerencias, así como nuevas propuestas deducidas.')
             
-        .col-sm-12.col-lg-3
-          p.mb-0 Siguiendo a Sánchez (2007), en cuanto al escrito de textos científicos o técnicos, se construye gráficamente a manera de esquema numérico o de esquema con llaves como se presenta en la siguiente gráfica de proceso:
       
       
+      p.mb-5(data-aos='fade-right') Siguiendo a Sánchez (2007), la redacción de textos científicos o técnicos se desarrolla a través de los siguientes pasos del proceso: 
       
       
       
@@ -512,7 +511,7 @@
               i.fas.fa-quote-left
               i.fas.fa-quote-right
             h4.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para el…
-          p.mb-5 #[b Lo invitamos a explorar el siguiente video:] A la Página en Blanco se la Derrota Mirándola a los Ojos. 
+          
       .tarjeta.bg-color-7.p-3.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1.d-none.d-lg-block

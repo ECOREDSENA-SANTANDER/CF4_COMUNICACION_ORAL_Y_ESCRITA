@@ -114,7 +114,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF4_240201524_DU.pdf',
       },
       {
         icono: 'fas fa-download',
