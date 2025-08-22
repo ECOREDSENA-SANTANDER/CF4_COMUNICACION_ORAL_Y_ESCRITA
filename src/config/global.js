@@ -130,8 +130,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Escribir',
-      referencia: 'Sánchez, Lobato (2007). Saber escribir. Editorial Aguilar.',
+      tema: 'Producción de textos',
+      referencia:
+        'Sánchez, Lobato, J. (2006). Saber escribir. Editorial Aguilar.',
       tipo: 'PDF',
       link:
         'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF4_Escribiendo/media/documentos/Saber_Escribir.pdf',
@@ -243,16 +244,17 @@ export default {
       link: 'https://dle.rae.es/texto',
     },
     {
-      referencia: 'Sánchez, J. (2007). Saber escribir.',
+      referencia:
+        'Sánchez, Lobato, J. (2006). Saber escribir. Editorial Aguilar. ',
       link: 'https://fhu.unse.edu.ar/cfp/sescribir.pdf',
     },
     {
-      referencia: 'Serafini, M. (1994). Cómo se escribe.',
+      referencia: 'Serafini, M.T. (1994). Cómo se escribe. ',
       link:
         'https://www.icesi.edu.co/blogs/lenguajevirtual/files/2008/08/EL-PARRAFO-Serafini.pdf',
     },
     {
-      referencia: 'Universidad Nacional (2020). Cita Indirecta.',
+      referencia: 'Universidad Nacional. (2020). Cita Indirecta.',
       link:
         'https://minas.medellin.unal.edu.co/departamentos/geocienciasymedioambiente/unidaddocumentacion/2-institucional/29-cita-indirecta.html#:~:text=Cita%20indirecta%3A%20hace%20menci%C3%B3n%20de,antes%20de%20citar%20su%20idea',
     },
@@ -288,7 +290,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -320,7 +322,18 @@ export default {
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [],
+      autores: [
+        {
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Andrea Ardila Chaparro',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
     },
   ],
   creditosAdicionales: {

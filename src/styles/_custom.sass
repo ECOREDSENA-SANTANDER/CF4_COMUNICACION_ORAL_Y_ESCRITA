@@ -56,6 +56,7 @@ figcaption
     background-color: $color-acento-botones
 .tabs-a__tab 
     background-color: #FFE0A6;
+    white-space: normal !important
 .bloque-texto-f.color-acento-contenido:before 
     background-color: #EFFAF4
 .bloque-texto-f__autor
@@ -83,7 +84,38 @@ figcaption
     text-align: right    !important
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
     border: 2px solid #FFE0A6;
-    background-color: #FFE0A6;    
+    background-color: #FFE0A6;  
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-radius: 20px;
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #E6DCFE
+      background-repeat: no-repeat
+      background-size: cover
+      h4 
+        color: $color-sistema-texto
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #824FFB
+    h4
+      color: #FFF
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em  
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -119,6 +151,8 @@ figcaption
     background-color: #EFFAF4
   &-7
     background-color: $color-acento-contenido !important
+  &-8
+    background-color: #F96E97
 .br
   &-1
     border-radius: 10px !important
@@ -153,7 +187,8 @@ figcaption
     width: 60%
   &-75
     width: 75%
-      
+.w-fit   
+    width: fit-content 
 .titulo-icono
   background-color: #FCC5D5
   border-radius: 30px

@@ -36,13 +36,13 @@
         
 
       .bg-full-width.bg-fondo-3.mb-5
-        .px-4.px-md-5.py-3
+        .p-full-width
           .tarjeta.bg-color-white.py-4.px-5
             LineaTiempoC.color-primario(data-aos='fade-right')
               .row.justify-content-center.align-content-center.mb-0(titulo="MSM")
                 .col-sm-12.col-lg-8.pc-2
                   h4 El MSM o mensaje de texto
-                  p.mb-0 Se debe limitar a ciento sesenta (160) caracteres que reflejen información básica de aquello que se quiere decir, por lo cual debe ser claro y conciso.
+                  p.mb-0 Se debe limitar a ciento sesenta (160) caracteres que reflejen información básica de aquello que se quiere decir, por lo cual, debe ser claro y conciso.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t2/5.png', alt='') 
 
@@ -50,7 +50,7 @@
                 .col-sm-12.col-lg-6
                   h4 El chat
                   p.mb-0 Es un diálogo en tiempo real entre dos o más interlocutores en forma de habla.
-                  p.mb-3 Estos dos medios se ven caracterizados por la inmediatez de la comunicación, por nuevos códigos y el estilo informal que se refleja en los escritos. Pese a ello, vale decir que dichas características no eximen los textos de cordialidad, respeto, objetividad y precisión al momento de enviar cualquier tipo de mensaje, dadas estas caracte rísticas el chat es ideal para:
+                  p.mb-3 Estos dos medios se ven caracterizados por la inmediatez de la comunicación, por nuevos códigos y el estilo informal que se refleja en los escritos. Pese a ello, vale decir que dichas características no eximen los textos de cordialidad, respeto, objetividad y precisión al momento de enviar cualquier tipo de mensaje, dadas estas características el chat es ideal para:
                   ul.lista-ul--color.mb-0.mb-cus
                     li.d-flex.mb-0
                       i.fas.fa-leaf.icon-list
@@ -70,7 +70,7 @@
                 .col-sm-12.col-lg-3
                   p.mb-0 Es decir, se debe manejar información de interés general para los participantes del chat en el caso de un grupo. Lo que indica que se debe procurar dejar intereses personales a un lado, característica que se le dará dependiendo de los lineamientos acordados por el grupo, las normas impartidas son necesarias para el buen funcionamiento del grupo de chat y su objetivo.
 
-              .row.justify-content-center.align-items-end.mb-0(titulo="Pág. Web")
+              .row.justify-content-center.align-items-end.mb-0(titulo="Página web")
                 .col-sm-12.col-lg-5
                   h4 Página web
                   p.mb-2 Una página web es un documento digital elaborado en formato HTML (lenguaje hipertextual de etiquetado de documentos) en el que se utilizan: imágenes, texto escrito, videos, animaciones, links, etc.
@@ -133,7 +133,7 @@
                         p.mb-0  Coste no excesivamente alto.
                       li.d-flex.mb-0
                         i.fas.fa-leaf.icon-list
-                        p.mb-0  Espacio de intercambio de fotografías, música, link textos, además de mensajes escritos.
+                        p.mb-0  Espacio de intercambio de fotografías, música, enlaces, textos, además de mensajes escritos.
                       li.d-flex.mb-0
                         i.fas.fa-leaf.icon-list
                         p.mb-0  Comunicación en corto tiempo.
@@ -224,7 +224,7 @@
                 i.fas.fa-quote-right
               .bloque-texto-f__autor.text-left.mb-3.pc-2
                 p.text-regular.bloque-texto-f__texto.mb-0 Ceremonial de los estilos, usos y costumbres que se debe guardar en actos públicos solemnes” …
-                p.text-regular.bloque-texto-f__texto.mb-0 “ceremonia en la manera de tratarse las personas particulares o en actos de la vida privada, a diferencia de los usos de confianza.
+                p.text-regular.bloque-texto-f__texto.mb-0 “Ceremonia en la manera de tratarse las personas particulares o en actos de la vida privada, a diferencia de los usos de confianza.
                 .text-center.h5.mb-0.mt-4 - RAE
 
 
@@ -283,7 +283,7 @@
   
             .row(numero="12" titulo="Norma 12")
               .col-12
-                p.mb-0 “Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre…” Art 15 de la Constitución Política de Colombia (1991). En las redes sociales no hay excepción a esta norma, lo que implica que no se debe publicar información personal o familiar de otros y si se estima publicar información propia, esta debe ser objeto de análisis antes de publicar, evitando caer en arrepentimientos.
+                p.mb-0 “Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre…" (art. 15 de la Constitución Política de Colombia, 1991). En las redes sociales no hay excepción a esta norma, lo que implica que no se debe publicar información personal o familiar de otros y si se estima publicar información propia, esta debe ser objeto de análisis antes de publicar, evitando caer en arrepentimientos.
             .row(numero="13" titulo="Norma 13")
               .col-12
                 p.mb-0  Evite caer en el humor colectivo, por medio del cual se generan burlas hacia personas que tienen una condición física determinada, fuera de lo que se estima como “normal”. Los llamados memes, en algunos casos son generadores de indignación y maltrato colectivo hacia algunas poblaciones con características físicas o culturales, que no deberían ser objeto de burla. Aquí la netiqueta debe ser, no transmitir este tipo de comunicados, partiendo de la dignidad y el respeto por el otro cualquiera que este sea, así esta cultura virtual empieza a cambiar desde estos contextos pedagógicos.
