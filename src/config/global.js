@@ -132,7 +132,7 @@ export default {
     {
       tema: 'Producción de textos',
       referencia:
-        'Sánchez, Lobato, J. (2006). Saber escribir. Editorial Aguilar.',
+        'Sánchez Lobato, J. (2006). Saber escribir. Editorial Aguilar.',
       tipo: 'PDF',
       link:
         'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF4_Escribiendo/media/documentos/Saber_Escribir.pdf',
@@ -245,7 +245,7 @@ export default {
     },
     {
       referencia:
-        'Sánchez, Lobato, J. (2006). Saber escribir. Editorial Aguilar. ',
+        'Sánchez Lobato, J. (2006). Saber escribir. Editorial Aguilar.',
       link: 'https://fhu.unse.edu.ar/cfp/sescribir.pdf',
     },
     {

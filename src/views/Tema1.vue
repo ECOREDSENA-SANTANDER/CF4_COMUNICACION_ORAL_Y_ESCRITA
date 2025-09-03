@@ -124,12 +124,11 @@
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.mb-1 Tipo de textos
-                p.mb-0 Lo invitamos a explorar el siguiente video: A la Página en Blanco se la Derrota Mirándola a los Ojos.
-
+                p.mb-0 Se invita a reforzar sus conocimientos mediante la siguiente infografía:
               .col-sm-auto
                 a.boton.color-acento-botones.text-sistema(:href="obtenerLink('/downloads/Tipo_textos.pdf')" target="_blank")
                   span Descargar
-                  i.fas.fa-download
+                  i.fas.fa-file-pdf
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.3 Importancia y utilización de los signos de puntuación
@@ -305,15 +304,15 @@
       
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
-                  h4.mb-3 2. Recopilación de material en relación con el tema.
-                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sea diversas teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias, tesis, etc. Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
+                  h4.mb-3 2. Recopilación de material en relación con el tema
+                  p.mb-0 Lo que se configura como insumo básico para el trabajo, las fuentes deben ser diferentes, de manera que la mirada hacia el tema sean diversas teorías, datos estadísticos, registros fotográficos, documentos históricos o memorias, tesis, etc. Esto indica que la bibliografía debe ser variada y actualizada en el caso de datos. Para buscar fuentes se recomienda indagar bibliografías de textos relacionados con el tema, chequear catálogos de bibliotecas, además de buscadores en la web, los cuales debe ser argumentados y veraces.
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
 
               .row.justify-content-center.mb-0.mt-5
                 .col-sm-12.col-lg-8
                   h4.mb-3 3.	Ordenar documentos o información consultada
-                  p.mb-0 Para ello se sugiere hacer una matriz en donde se categoricen las lecturas, se refieran datos bibliográficos y las ideas principales de los aspectos a resaltar ya sea de manera textual o parafraseada. Otro aparte sería su propio juicio de valor, como refiere Sánchez “”elabore argumentaciones que corroboren la tesis que se está escribiendo” (p. 453).
+                  p.mb-0 Para ello se sugiere hacer una matriz en donde se categoricen las lecturas, se refieran datos bibliográficos y las ideas principales de los aspectos a resaltar ya sea de manera textual o parafraseada. Otro aparte sería su propio juicio de valor, como refiere Sánchez (2007), "elabore argumentaciones que corroboren la tesis que se está escribiendo" (p. 453).
                 .col-sm-12.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t1/11.png', alt='')
 
@@ -598,7 +597,7 @@
           p.fw-bold Ejemplo
           p “Para Kostoff#[sup 1] las citas representan los cimientos intelectuales anteriores sobre lo que sustenta un trabajo de investigación y, por tanto, el trabajo citado supone un escalón en el desarrollo del conocimiento científico.
 
-          p #[em KOSTOFF, RN. The use and misuse of citation analysis in research evaluation. En: Scientometrics. Budapest, 1998. Vol. 43, no.1. p.28”]
+          p #[sup 1]#[em KOSTOFF, RN. The use and misuse of citation analysis in research evaluation. En: Scientometrics. Budapest, 1998. Vol. 43, no.1. p.28”]
           p Es decir que todo el material que no sea de su autoría debe estar citado de forma correcta porque de lo contrario no se puede usar ya que se incurre en problemas legales de derechos de autor.
 </template>
 
