@@ -557,14 +557,14 @@
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
               i.fas.fa-quote-right
-            h4.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para la mente y la salud...
+            p.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente y la salud...
           
 
           .bloque-texto-f.color-acento-contenido.pt-4.pc-2.mb-0
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
               i.fas.fa-quote-right
-            p.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente, indispensable para la mente y la salud...
+            p.text-regular.bloque-texto-f__texto.mb-4.px-3 Todos tenemos derecho a escribir nuestra historia, escribir no es un privilegio de los intelectuales; escribir es una actividad humana indispensable para la mente y la salud...
             .bloque-texto-f__autor.text-right.mb-3
               p.mb-0.text-right Navas Talero (2016).
 
