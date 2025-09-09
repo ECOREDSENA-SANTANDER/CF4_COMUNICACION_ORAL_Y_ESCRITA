@@ -404,7 +404,7 @@
             p.mb-0 #[b Figura 2.]  Formato de márgenes APA
           .row
             .col-sm-12.col-md-6.col-lg-3.mb-cus
-              img.w-75.m-auto(src='@/assets/curso/temas/t1/14.svg', alt='El formato de márgenes en estilo APA: 2.54 cm en todos los lados (superior, inferior, izquierdo y derecho). Este margen uniforme garantiza una presentación clara y profesional del documento.')
+              img(src='@/assets/curso/temas/t1/14.svg', alt='El formato de márgenes en estilo APA: 2.54 cm en todos los lados (superior, inferior, izquierdo y derecho). Este margen uniforme garantiza una presentación clara y profesional del documento.')
             .col-sm-12.col-lg-9
               p.mb-2 Este formato de márgenes tiene como finalidad mantener una presentación limpia, ordenada y estandarizada del documento, lo cual facilita su lectura y revisión. Es importante asegurarse de que este margen se respete en todas las páginas del trabajo, incluyendo la portada, el resumen, el contenido, las referencias y los apéndices.
               p.mb-0 La simetría en los márgenes también cumple una función técnica, especialmente en el proceso de impresión y encuadernación, ya que garantiza que ninguna parte del texto quede fuera del área visible o legible.
