@@ -138,7 +138,8 @@
             figure
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/F5cbwoC-kao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video. Importancia de los signos de puntuación
+            figcaption Video. Importancia y utilización de los signos de puntuación
+
 
       
       
