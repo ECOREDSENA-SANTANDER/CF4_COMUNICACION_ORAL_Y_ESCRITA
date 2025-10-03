@@ -81,16 +81,16 @@
 
       TabsA.color-acento-contenido.mb-5(data-aos='fade-right')
         .tarjeta.bg-color-3.p-5.br-1(titulo="1.	Importancia del contexto")
-          h4 1.	Importancia del contexto
+          h4 Importancia del contexto
           p.mb-0 El contexto en el que se escribe (social, económico o histórico) influye en el mensaje. Este no debe desvincularse de la situación del momento.
 
         .tarjeta.bg-color-3.p-5.br-1(titulo="2.	Reconocimiento del autor")
-          h4 2.	Reconocimiento del autor
+          h4 Reconocimiento del autor
           p.mb-0 Citar al autor del texto no es opcional, sino un deber ético. El reconocimiento de las fuentes es fundamental en cualquier escrito.
 
 
         .tarjeta.bg-color-3.p-5.br-1(titulo="3.	Claridad y articulación del mensaje citado")
-          h4 3.	Claridad y articulación del mensaje citado
+          h4 Claridad y articulación del mensaje citado
           p Es crucial comprender claramente el mensaje que se cita y asegurarse de que esté adecuadamente articulado con el proyecto de escritura, de modo que tanto el aporte como la cita estén bien integrados.
       p Lo anterior, aplica para textos científicos, académicos o libros, no aplica para páginas de internet informales, toda vez que estas pueden tomar diferentes fuentes, por tanto, la veracidad no es contundente.
       p.mb-5 Es subjetivo reducir los textos a tipos para su clasificación, sin embargo, se hace una clasificación que puede tener en cuenta en su avance como escritor:
@@ -102,7 +102,7 @@
                 .col-sm-12.col-lg-3.d-none.d-lg-block
                     img(src='@/assets/curso/temas/t1/17.svg')
                 .col-sm-12.col-lg-9
-                  h2.mb-0.bg-color-8.py-1.px-2.mt-2.w-fit  Textos científicos o técnicos se subdividen en: 
+                  h3.mb-0.bg-color-8.py-1.px-2.mt-2.w-fit  Textos científicos o técnicos se subdividen en: 
               p.mb-0.text-white - Textos periodísticos informativos. 
               p.mb-0.text-white  - Textos periodísticos de opinión.  
               p.mb-0.text-white  - Textos periodísticos mixtos. 
@@ -111,7 +111,7 @@
                 .col-sm-12.col-lg-3.d-none.d-lg-block
                     img(src='@/assets/curso/temas/t1/18.svg')
                 .col-sm-12.col-lg-9
-                  h2.mb-0.bg-color-8.py-1.px-2.mt-4.w-fit Textos literarios:
+                  h3.mb-0.bg-color-8.py-1.px-2.mt-4.w-fit Textos literarios:
               p.mb-0 - Textos líricos.
               p.mb-0  - Textos narrativos.  
               p.mb-0  - Textos dramáticos. 
@@ -215,7 +215,7 @@
                 p.mb-0 Constituido por una lista de propiedades que describen un mismo objeto, hecho o idea y por una frase organizadora (antes o después del párrafo) que indica al lector la estructura del párrafo.
             .row.jus(titulo="Párrafo de comparación / contraste")
               .col-lg-12
-                p.mb-0 Indica las semejanzas y diferencias entre dos más objetos, ideas o personas, comparándolos, según cierto número de categorías.
+                p.mb-0 Indica las semejanzas y diferencias entre dos o más objetos, ideas o personas, comparándolos, según cierto número de categorías. 
 
             .row.jus(titulo="Párrafo de desarrollo de un concepto")
               .col-lg-12
@@ -531,10 +531,10 @@
           h3.mb-0.titulo-icono-text.px-0.py-2 En cuanto a las citas
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/8.png', alt='')
+          img(src='@/assets/curso/temas/t1/23.png', alt='')
         .col-sm-12.col-lg-9
           .titulo-only-text
-            h3.mb-5.titulo-only-text-info.px-0.py-2 Citar significa
+            h3.mb-5.titulo-only-text-info.px-0.py-2 Según la RAE citar significa: 
           .row.mb-4
             .col-sm-12.col-lg-6.mb-cus
               .bloque-texto-b.color-secundario.p-4

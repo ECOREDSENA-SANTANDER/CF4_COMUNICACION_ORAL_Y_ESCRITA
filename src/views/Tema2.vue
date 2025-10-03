@@ -32,7 +32,7 @@
               img(src='@/assets/curso/temas/t2/3.svg', alt='') 
             .col-sm-12.col-lg-10
                 p.mb-0 La tecnología ha propiciado cambios en la forma de comunicación entre personas de todas las edades, teniendo a disposición un abanico de posibilidades en cuanto a herramientas tecnológicas se refiere, aspecto que ha acelerado la velocidad de los mensajes siendo además asequibles en todos los ámbitos de la vida humana.
-          p.mb-0 Para el caso que ocupa este curso, se enfocará la utilización de herramientas tecnológicas en contextos profesionales, ya sea desde la formación o el desempeño profesional, de manera que la asertividad caracterice la forma de emitir comunicados por medios tecnológicos.
+          p.mb-0 Para el caso que ocupa este componente formativo, se enfocará la utilización de herramientas tecnológicas en contextos profesionales, ya sea desde la formación o el desempeño profesional, de manera que la asertividad caracterice la forma de emitir comunicados por medios tecnológicos. 
         
 
       .bg-full-width.bg-fondo-3.mb-5
@@ -178,11 +178,14 @@
                             i.fas.fa-leaf.icon-list
                             .flex-column
                               p.mb-0 #[b Asunto:] debe referir clara y concretamente la intención del correo.
+                          li.d-flex.mb-0
+                            i.fas.fa-leaf.icon-list
+                            .flex-column
                               p.mb-0 #[b Nombre completo del destinatario:] cargo, empresa y ciudad.
                           li.d-flex.mb-0
                             i.fas.fa-leaf.icon-list
                             .flex-column
-                              p.mb-0 #[b Asunto:] un saludo cordial.
+                              p.mb-0 #[b Saludo:] un saludo cordial.
                           li.d-flex.mb-0
                             i.fas.fa-leaf.icon-list
                             .flex-column
@@ -216,7 +219,7 @@
             img(src='@/assets/curso/temas/bg/2.svg', alt='')
           .col
             h3.mb-0.titulo-icono-text.px-0.py-2   El término netiqueta viene de la palabra etiqueta, definida:
-      .row.justify-content-center.mb-3(data-aos='fade-right')
+      .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-10
           .bloque-texto-f.color-acento-contenido.pt-4.pc-2.mb-0
               .bloque-texto-f__comillas
@@ -229,7 +232,7 @@
 
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
-        .col-sm-12.col-lg-8
+        .col-sm-12.col-lg-12
           p.mb-3 Por tanto, netiqueta hace referencia a todo lo relacionado con el buen actuar en las redes sociales utilizadas en diversos contextos, actuar que debe estar cualificado por la comunicación asertiva a partir de la cual se transmite información de manera clara, pertinente, concreta y consciente, de manera que el buen trato hacia el interlocutor se enmarque en límites de respeto y cordialidad.
           p.mb-0 A fin de regular el buen actuar en las redes, se sugieren las siguientes normas objeto de implementación, complementariedad y actualización:
 
