@@ -542,12 +542,12 @@
                   i.fas.fa-quote-left
                   h4.mb-0 Referir, anotar o mencionar un autor, un texto, un lugar, etc., que se alega en lo que se dice o escribe …
                   i.fas.fa-quote-right
-                p.mb-0.mt-1.position-relative.tit-2 RAE
+                //p.mb-0.mt-1.position-relative.tit-2 RAE
             .col-sm-12.col-lg-6
               .bloque-texto-c.bg-color-6.p-4
                 i.fas.fa-quote-right
-                h4.mb-2 “hacer mención de alguien o de algo.” 
-                span RAE
+                h4.mb-2 “hacer mención de alguien o de algo”. 
+                //span RAE
           p Esto implica que, desde la ética, el escritor y su formación profesional es un deber citar cada aporte que apoye sus escritos y argumentos, ya sea de manera literal o parafraseada, en este último caso no se obliga a mencionar el número de página de la que se sustrajo la idea descrita o parafraseada.
           p.mb-5 Es clave mencionar que en un escrito debe prevalecer el conocimiento construido por quien escribe y las citas se configuran como complemento, ampliación o afirmación de lo mencionado, esto para no caer en errores de sobre citar o sobre referir.
           .titulo-only-text.mb-4
